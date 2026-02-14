@@ -41,7 +41,7 @@ git clone https://github.com/ayazkhan1410/The-Calculator-That-Never-Forgets.git
 
 3. **Run the App:**
 ```bash
-python main.py
+python app.py
 
 ```
 
