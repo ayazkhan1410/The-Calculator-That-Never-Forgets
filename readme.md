@@ -60,7 +60,7 @@ Result: 50.0
 
 ## 📂 File Structure
 
-* `main.py`: The core Python script containing the logic.
+* `app.py`: The core Python script containing the logic.
 * `History.txt`: Created automatically on your first calculation to store your data.
 * `README.md`: You are looking at it!
 
