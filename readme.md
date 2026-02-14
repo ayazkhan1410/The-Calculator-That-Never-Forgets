@@ -34,8 +34,7 @@ The application uses a dedicated `CalculatorWithHistory` class to manage both th
 1. **Prerequisites:** Ensure you have **Python 3.x** installed.
 2. **Clone the Repo:**
 ```bash
-git clone https://github.com/yourusername/CalcHistory.git
-cd CalcHistory
+git clone https://github.com/ayazkhan1410/The-Calculator-That-Never-Forgets.git
 
 ```
 
